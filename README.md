@@ -3,7 +3,7 @@
 ```
 ```c#
 ------------------------------------
-Langauges: C, C++, C#, Java, Python
+Langauges: C, C++, C#, Java
 Learning: Javascript, Typescript
 ------------------------------------
 ```

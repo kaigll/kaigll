@@ -1,9 +1,9 @@
 ```diff
-+ Hi! I'm Kai a software developer and electronic and computer engineering student.
++ Hi! I'm Kai an electronic and computer engineering student.
 ```
 ```c#
 ------------------------------------
 Langauges: C#, Java
-Learning: C, C++, Javascript, Typescript
+Learning: C, C++
 ------------------------------------
 ```
